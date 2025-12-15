@@ -1,0 +1,3 @@
+venv/
+fraud_model.pkl
+fraud_scaler.pkl
